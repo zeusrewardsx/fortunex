@@ -4,6 +4,8 @@
   "description": "Buy. Hold. Win. Repeat.",
   "image": "https://fortunesol.fun/logo.jpg",
   "extensions": {
+    "website": "https://fortunesol.fun",
     "twitter": "https://x.com/fortunesolfun"
   }
+
 }
