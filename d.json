@@ -1,0 +1,9 @@
+{
+  "name": "Fortune",
+  "symbol": "FORTUNE",
+  "description": "Buy. Hold. Win. Repeat.",
+  "image": "https://fortunesol.fun/logo.jpg",
+  "extensions": {
+    "twitter": "https://x.com/fortunesolfun"
+  }
+}
